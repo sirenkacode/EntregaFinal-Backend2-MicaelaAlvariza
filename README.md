@@ -171,11 +171,3 @@ Servidor disponible en:
 ✔ Arquitectura profesional y modular\
 ✔ Lógica de compra robusta con generación de Ticket
 
-------------------------------------------------------------------------
-
-## 🎯 Conclusión
-
-Este proyecto consolida los conocimientos adquiridos durante el curso,
-aplicando buenas prácticas de arquitectura backend, separación de
-responsabilidades, seguridad y manejo profesional de la lógica de
-negocio.
